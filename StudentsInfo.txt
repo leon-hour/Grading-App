@@ -1,0 +1,9 @@
+John, Smith, Department1,32
+Olivia, Lopez, Department2,89
+Emily, Jones, Sales,78
+Jessica, Evans, Accounting,93
+Rachel, Booker,Sales,58
+Laura,Grey,Depot,49
+Craig,Johnson,Depot,67
+Mary,Jenkins,Engineering,59
+Jamie,Smith,Engineering,93
